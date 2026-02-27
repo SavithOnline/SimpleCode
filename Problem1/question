@@ -1,0 +1,9 @@
+ACTIVITY 1: PARKING SPOT ALLOCATION CHECKER
+Scenario:
+You are designing a mini parking allocation checker for a new development. The parking lot has a limited number of spots. Some spots are reserved for VIP users, and some are general spots. The system will ask users to input their name and VIP status, then assign them a parking spot based on the rules.
+
+Rules:
+
+The parking lot has 5 VIP spots and 10 general spots.
+
+If no suitable spots are available, the user should be told the parking lot is full for them.
