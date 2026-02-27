@@ -1,2 +1,11 @@
-# SimpleCode
-I created this repo to share the code I’m writing throughout my double degree journey. I hope this becomes a helpful resource for anyone following in my footsteps (even if you aren't a software engineer!) to learn programming in a way that just makes sense. Check back for regular updates on problems and their solutions!
+🎓 My Dual-Degree Programming Journey
+Welcome! This repository is a living document of the code, scripts, and logic I am developing while pursuing my two degrees in Electrical Engineering and Urban Informatics & Planning.
+
+🎯 The Mission
+As someone navigating two technical fields that aren't purely "Software Engineering," I know how intimidating coding can feel. I created this space to:
+
+Bridge the Gap: Show how programming is used in engineering and urban planning.
+
+Teach Intuitively: Provide a resource for future students (non-CS majors) to learn by example.
+
+Document Growth: Share both the challenges (problems) and the fixes (solutions).
